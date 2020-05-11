@@ -1,0 +1,70 @@
+body {
+  background-color: lightcyan;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}
+header.main_word {
+  text-align: center;
+  font-size: 60px;
+  background-color: #4F0011;
+  margin-top: 20%;
+  margin-left: 23%;
+  margin-right: 23%;
+  margin-bottom: 15%;
+  border-radius: 20px;
+  color: aliceblue;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 1s;
+}
+ul.navigation_bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #4F0011;
+  width: 496px;
+  border-radius: 20px;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: aliceblue;
+  text-align: center;
+  padding: 15px 23px;
+  text-decoration: none;
+  font-size: 25px;
+}
+li a:hover {
+  background-color: #761429;
+}
+.button1 {
+  background-color: #4F0011;
+  border: none;
+  color: aliceblue;
+  padding: 15px 28px;
+  text-align: center;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 2s;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 32%;
+  margin-right: 10%;
+  border-radius: 20px;
+}
+.button2 {
+  background-color: #4F0011;
+  border: none;
+  color: aliceblue;
+  padding: 15px 28px;
+  text-align: center;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 2s;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-right: 32%;
+}
